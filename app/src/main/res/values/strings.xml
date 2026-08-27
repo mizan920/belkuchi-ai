@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Belkuchi AI</string>
+    <string name="tagline">বেলকুচির স্মার্ট লোকাল অ্যাসিস্ট্যান্ট</string>
+    <string name="search_placeholder">বেলকুচি সম্পর্কে যেকোনো প্রশ্ন করুন…</string>
+    <string name="disclaimer">তথ্য পরিবর্তিত হতে পারে। গুরুত্বপূর্ণ তথ্য ব্যবহারের আগে সংশ্লিষ্ট কর্তৃপক্ষের সাথে যাচাই করুন।</string>
+</resources>

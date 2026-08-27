@@ -1,0 +1,6 @@
+{
+  "name": "Belkuchi AI",
+  "description": "Smart local AI assistant for Belkuchi Upazila, Sirajganj, Bangladesh — emergency contacts, healthcare, education, maps, places, transport, and voice search in Bangla & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

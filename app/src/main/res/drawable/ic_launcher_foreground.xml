@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21dp to 87dp) -->
+    <!-- Outer Glow Circle -->
+    <path
+        android:fillColor="#1A80E1D4"
+        android:pathData="M54,54m-30,0a30,30 0 1,1 60,0a30,30 0 1,1 -60,0" />
+
+    <!-- AI Sparkle / Brain Nodes -->
+    <path
+        android:fillColor="#80E1D4"
+        android:pathData="M54,26L57,35L66,38L57,41L54,50L51,41L42,38L51,35Z" />
+
+    <!-- Main Pin & Smart Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34C44.06,34 36,42.06 36,52c0,12 18,28 18,28s18,-16 18,-28C72,42.06 63.94,34 54,34zM54,58c-3.87,0 -7,-3.13 -7,-7s3.13,-7 7,-7s7,3.13 7,7S57.87,58 54,58z" />
+
+    <!-- Inner Emerald Core -->
+    <path
+        android:fillColor="#006A60"
+        android:pathData="M54,51m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0" />
+
+    <!-- Voice wave / AI pulses -->
+    <path
+        android:fillColor="#80E1D4"
+        android:pathData="M70,44L72,49L77,51L72,53L70,58L68,53L63,51L68,49Z" />
+    <path
+        android:fillColor="#80E1D4"
+        android:pathData="M38,46L39.5,49.5L43,51L39.5,52.5L38,56L36.5,52.5L33,51L36.5,49.5Z" />
+</vector>
+
